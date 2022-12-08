@@ -1,0 +1,5 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것 
+- 인공생명체 프로젝트를 만들어보고 싶다.
+
+2. 1주차 주요 개념 키워드 적어보기
+- GIT, GITHUB, 깃초기화(CREATE), COMMIT, ADD, 버전관리, 로컬레포, 원격레포, PULL, PUSH, TRACKING, CLONE

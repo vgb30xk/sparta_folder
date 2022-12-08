@@ -1,0 +1,1 @@
+오늘은 2주차에 이어서, PR(Pull Request)로 내 작업내용을 반영해달라고 요청하는것과 Commit관리를 위한 amend, revert, reset, stash 등등 여러가지를 배웠다. 뿐만 아니라 github에서 다른 개발자의 SNS와 오픈소스에 접근하고, 나를 드러내는 페이지를 만드는것도 해보았다.
